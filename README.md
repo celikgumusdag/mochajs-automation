@@ -1,5 +1,7 @@
 # mochajs-automation
 
+![Mocha JS](https://github.com/celikgumusdag/mochajs-automation/blob/master/img/mochajs.png)
+
 Description
 ------------
 Simple implementation of MochaJS automation by using Selenium Webdriver
