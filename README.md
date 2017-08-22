@@ -10,6 +10,10 @@ About
 ------------
 This example project helps you understand MochaJS and NodeJs automation
 
+#### Mocha
+
+Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
+
 You can find more information in this webpage: https://www.mochajs.org
 
 You can find more example in this repository: https://github.com/mochajs/mocha
